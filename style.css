@@ -1,0 +1,22 @@
+#theForm{
+    /* background-color: rgb(72, 72, 133); */
+    text-align: center;
+    
+    
+    
+     
+}
+
+h2{
+    text-align: center;
+}
+
+.row{
+    font-style: bold;
+    border-color: black;
+}
+label{
+    box-sizing: border-box;
+}
+
+
